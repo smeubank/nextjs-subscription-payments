@@ -38,3 +38,9 @@ yarn-error.log*
 
 # certificates
 certificates
+
+# Sentry Config File
+.sentryclirc
+
+# Sentry Config File
+.sentryclirc
